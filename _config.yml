@@ -21,7 +21,6 @@
 title: Newsrista
 email: newsrista@gmail.com
 description: Welcome to Newsrista, a vibrant space dedicated to unraveling the wonders of technology and STEM (Science, Technology, Engineering, and Mathematics) in the form of blogs! In a world where innovation and discoveries shape our everyday lives it is essential as humans to know how and why our future may be changed, and it if for the better or worse.
-avatar: https://raw.githubusercontent.com/Newsrista/myblogs/main/Newsrista.png
 
 baseurl: "/myblogs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
