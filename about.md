@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello this is Moksh Shah, also known as Macro a high school student sharing his interests and engrossing the readers with up to date information on relevant topics. I will be creating blogs weekly so stick around to find out what I write next
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I will be mostly be writing on up and coming technology and STEM advancements
+I hope you enjoy :)
