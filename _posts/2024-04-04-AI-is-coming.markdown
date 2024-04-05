@@ -7,7 +7,7 @@ categories: jekyll update
 
 When you read the heading you immediately think of a negative connotation, "AI will take jobs", or "AI will destroy humanity" but this post is based on the positives of AI and how us humans can benifit.
 
- ![AI in Healthcare](../Images/Healthcare.jpg)
+ ![AI in Healthcare](/Images/Healthcare.jpg)
 
 ## AI in Healthcare
 
@@ -17,7 +17,7 @@ The healthcare industry is one where AI is having one of its most significant im
 
 The application of AI to the processing and analysis of massive datasets is equally significant for environmental preservation. AI algorithms track wildlife populations, monitor deforestation, and forecast the effects of climate change on ecosystems through satellite imagery and sensor data. With the use of this technology, conservationists can save endangered animals and their ecosystems with greater accuracy and speed. Furthermore, AI plays a key role in improving the production of renewable energy and optimizing urban energy use, both of which greatly aid in the fight against climate change.
 
- ![AI in Education](../Images/Education.png)
+ ![AI in Education](/Images/Education.png)
 
 ## AI in Education
 
