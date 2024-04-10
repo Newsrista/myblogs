@@ -5,6 +5,8 @@ date:   2024-04-09 20:07:22
 categories: jekyll update
 ---
 
+<img src="https://raw.githubusercontent.com/Newsrista/myblogs/main/Assets/Images/AI%20Healthtech.webp" />
+
 One of the most active and significant areas of innovation in today's world is the convergence of health and technology, or "Health Tech." Health Tech is significantly changing the healthcare industry. Examples of these changes include the use of artificial intellegence (AI) in diagnosis and treatment planning, as well as wearable devices that track health data.
 
 ### Wearable Technology and Health Monitoring
@@ -21,9 +23,13 @@ The fields of AI and machine learning are leading the way in changing diagnosis 
 
 ### Blockchain for Secure Patient Data Management
 
+<img src="https://raw.githubusercontent.com/Newsrista/myblogs/main/Assets/Images/Blockchain.jpeg" />
+
 Blockchain technology is starting to play a role in secure patient data management by creating decentralized, tamper-proof records. It permits easy information exchange between authorized healthcare professionals while guaranteeing the privacy and accuracy of medical records. By ensuring that all relevant health providors have access to correct and access current information, this can enhance the effectiveness of healthcare delivery and improve patient outcomes.
 
 ### The Potential of Genomics and Personalized Medicine
+
+<img src="https://raw.githubusercontent.com/Newsrista/myblogs/main/Assets/Images/download.jpeg" />
 
 Looking ahead, a highly individualized medical future is promised by the incorporation of genomics into healthcare, fueled by Health Tech. Healthcare professionals can customize treatments and preventative actions that are much more effective and have fewer negative effects by knowing an individual's genetic composition. This method not only improves patient care but also advances preventative medicine, which may lessen the impact and prevalence of numerous diseases.
 
